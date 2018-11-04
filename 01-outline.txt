@@ -1,0 +1,7 @@
+Author: Keith Smith
+
+Men's Clothing Store
+1. Purpose - The purpose of this system will be
+to serve as an online storefront for
+a men's clothing store
+2. Target Audience - Men looking for clothes

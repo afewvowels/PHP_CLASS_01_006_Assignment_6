@@ -1,0 +1,87 @@
+Customers
+1. Register
+2. Purchase clothes
+3. Make payments
+4. Shipping information
+5. Address information
+
+Admins
+1. Add clothes to inventory
+2. Change sale price
+3. Put items on sale
+
+Customer Information
+1. Name
+2. Email
+3. Shipping address
+4. Billing address
+5. Phone number
+
+Address Information
+1. Type
+2. Street1
+3. Street2
+4. City
+5. State
+6. Zip
+7. Date Created
+
+Admin Information
+1. Name
+2. Position
+3. Employee ID number
+
+Clothing Categories
+1. Category
+2. Item type
+3. Description
+4. Size
+5. Colors/patterns
+6. Photo
+7. Price
+8. Stock quantity
+9. Date added
+
+Item Type
+1. Category
+2. Item type (shirt, pants, shoes, etc.)
+
+Description
+1. Category
+2. Text description
+
+Size
+1. Category
+2. Size information (s/m/l, waist size, etc.)
+
+Colors/Patterns
+1. Category
+2. Color/pattern information
+
+Photo
+1. Category
+2. Photo (.jpeg, .png, etc.)
+
+// Price
+// 1. Category
+// 2. Price information
+
+// Stock Quantity
+// 1. Category
+// 2. Numerical value
+
+// Date Added
+// 1. Category
+// 2. Date information
+
+Order
+1. Order total
+2. Shipping cost
+3. Credit card information
+4. Order date
+5. Shipping address
+
+Transaction
+1. Billing charge
+2. Billing address
+3. Date processed
